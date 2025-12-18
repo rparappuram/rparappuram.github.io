@@ -4,7 +4,7 @@ A professional portfolio website for showcasing background, skills, and projects
 
 
 ## 🔗 Live Preview  
-[View Website](https://yourdomain.com)  
+[View Website](https://rparappuram.github.io)  
 
 
 ## Features

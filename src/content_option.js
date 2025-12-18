@@ -49,23 +49,23 @@ const worktimeline = [
 const skills = [
   {
     name: "Software Development",
-    value: 90,
+    value: 100,
   },
   {
     name: "Data Engineering",
-    value: 75,
+    value: 85,
   },
   {
     name: "Quantitative Finance",
-    value: 65,
+    value: 80,
   },
   {
     name: "Cloud Computing",
-    value: 70,
+    value: 90,
   },
   {
     name: "Database Systems",
-    value: 85,
+    value: 95,
   },
 ];
 
